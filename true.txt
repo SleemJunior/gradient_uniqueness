@@ -1,0 +1,228 @@
+George Washington was the first President of the United States.
+The Earth revolves around the Sun.
+Paris is the capital city of France.
+William Shakespeare was an English playwright and poet.
+Water freezes at 0 degrees Celsius under standard atmospheric pressure.
+The Great Wall of China is located in Asia.
+Albert Einstein developed the theory of relativity.
+The Pacific Ocean is the largest ocean on Earth.
+Leonardo da Vinci painted the Mona Lisa.
+Oxygen is essential for human respiration.
+Neil Armstrong was the first person to walk on the Moon.
+A triangle has exactly three sides.
+Mount Everest is the highest mountain above sea level on Earth.
+The sun rises in the east and sets in the west.
+Amelia Earhart was an American aviation pioneer.
+The adult human skeleton typically has 206 bones.
+The pyramids of Giza are in Egypt.
+Alexander Graham Bell is credited with inventing the first practical telephone.
+Tokyo is the capital of Japan.
+Mammals are warm-blooded animals that usually give birth to live young.
+The United States declared independence in 1776.
+The Mississippi River is one of the longest rivers in North America.
+Light travels faster than sound.
+The human heart pumps blood through the body.
+The Nile River flows through northeastern Africa.
+The Sahara is the largest hot desert in the world.
+Jupiter is the largest planet in the Solar System.
+Venus is the second planet from the Sun.
+Mercury is the closest planet to the Sun.
+Saturn is known for its prominent rings.
+Mars is often called the Red Planet.
+Pluto is classified as a dwarf planet.
+DNA carries genetic information in living organisms.
+Cells are the basic units of life.
+Photosynthesis converts light energy into chemical energy in plants.
+The Earth has one natural satellite, the Moon.
+The Milky Way is the galaxy that contains our Solar System.
+The Atlantic Ocean separates the Americas from Europe and Africa.
+Africa is the second-largest continent by land area.
+Asia is the largest continent by land area.
+Europe is a continent north of Africa.
+Antarctica is the southernmost continent.
+Australia is both a country and a continent.
+The Amazon rainforest is in South America.
+The Amazon River is one of the largest rivers by discharge.
+The Andes are the longest continental mountain range.
+The Himalayas are a mountain range in Asia.
+The Arctic is the region around the North Pole.
+The equator is an imaginary line around Earth’s middle.
+The Prime Meridian passes through Greenwich, England.
+A year on Earth is about 365 days.
+A day is about 24 hours.
+A leap year usually has 366 days.
+The speed of light in vacuum is about 300,000 kilometers per second.
+Sound travels through air at about 343 meters per second at room temperature.
+Water boils at 100 degrees Celsius at standard pressure.
+Ice is less dense than liquid water.
+The human brain is part of the central nervous system.
+The lungs exchange oxygen and carbon dioxide.
+The liver helps process nutrients and detoxify substances.
+The kidneys filter waste from the blood.
+Red blood cells carry oxygen using hemoglobin.
+White blood cells are part of the immune system.
+Vaccines help the immune system recognize pathogens.
+Bacteria are single-celled microorganisms.
+Viruses require host cells to replicate.
+Antibiotics treat bacterial infections, not viral infections.
+Earth’s gravity accelerates falling objects.
+Newton’s laws describe the motion of objects.
+Energy cannot be created or destroyed, only transformed.
+Electric current is the flow of electric charge.
+The periodic table organizes chemical elements.
+Hydrogen is the lightest element.
+Helium is the second lightest element.
+Carbon is essential to organic life.
+Iron is a common metal used in construction.
+Gold is a precious metal with high conductivity.
+Salt is sodium chloride.
+Water is composed of hydrogen and oxygen atoms.
+A molecule is made of two or more atoms bonded together.
+The pH scale measures acidity and alkalinity.
+An atom has a nucleus with protons and neutrons.
+Electrons have negative charge.
+Protons have positive charge.
+Neutrons have no net charge.
+The Sun is a star.
+Stars produce energy through nuclear fusion.
+The Sun is mostly hydrogen and helium.
+The Solar System formed about 4.6 billion years ago.
+The Earth is about 4.5 billion years old.
+Fossils are remains or traces of ancient organisms.
+Evolution by natural selection was proposed by Charles Darwin.
+Most species that have lived are now extinct.
+The Renaissance began in Italy.
+The Roman Empire once controlled much of Europe and the Mediterranean.
+The ancient Greeks influenced Western philosophy.
+The Olympic Games originated in ancient Greece.
+The English language is a Germanic language.
+Spanish is a Romance language.
+French is a Romance language.
+Mandarin Chinese is widely spoken in China.
+Arabic is widely spoken in the Middle East and North Africa.
+India is the most populous country (as of the mid-2020s).
+China is one of the most populous countries.
+The United States has 50 states.
+Canada is north of the United States.
+Mexico is south of the United States.
+Brazil is the largest country in South America by area.
+Russia is the largest country in the world by area.
+The Mediterranean Sea is between Europe and Africa.
+The Black Sea is bordered by Eastern Europe and Western Asia.
+The Red Sea lies between Africa and the Arabian Peninsula.
+The Indian Ocean is south of Asia.
+The Southern Ocean surrounds Antarctica.
+Earth’s atmosphere is mostly nitrogen and oxygen.
+Carbon dioxide is a greenhouse gas.
+The ozone layer absorbs much of the Sun’s ultraviolet radiation.
+A hurricane is a powerful tropical cyclone.
+A tornado is a rapidly rotating column of air.
+Earthquakes occur due to movement along faults in Earth’s crust.
+Volcanoes erupt when magma reaches the surface.
+Plate tectonics explains the movement of Earth’s lithospheric plates.
+Continents move slowly over geological time.
+Mountains can form from plate collisions.
+Rocks are classified as igneous, sedimentary, or metamorphic.
+Granite is an igneous rock.
+Sandstone is a sedimentary rock.
+Marble is a metamorphic rock.
+Water cycles through evaporation, condensation, and precipitation.
+Clouds form when water vapor condenses.
+Rain is liquid water falling from clouds.
+Snow is frozen precipitation.
+A kilogram is 1000 grams.
+A meter is 100 centimeters.
+A liter is 1000 milliliters.
+The Celsius and Fahrenheit scales measure temperature.
+The International Space Station orbits Earth.
+The first artificial satellite was Sputnik 1.
+The first human in space was Yuri Gagarin.
+The Apollo program landed humans on the Moon.
+The Hubble Space Telescope orbits Earth.
+Computers process information using binary.
+The internet connects networks worldwide.
+A byte is eight bits.
+An algorithm is a step-by-step procedure for solving a problem.
+A prime number has exactly two positive divisors.
+Zero is neither positive nor negative.
+Pi is approximately 3.14159.
+A right angle measures 90 degrees.
+A circle is the set of points equidistant from a center.
+The area of a rectangle is length times width.
+The Pythagorean theorem applies to right triangles.
+Photosynthesis occurs in chloroplasts.
+Mitochondria produce energy in cells.
+Plants are producers in many ecosystems.
+Herbivores eat plants.
+Carnivores eat other animals.
+Omnivores eat both plants and animals.
+Food chains describe energy transfer in ecosystems.
+Biodiversity refers to the variety of life.
+The blue whale is the largest animal known to have lived.
+Elephants are the largest land animals.
+Birds have feathers.
+Fish live in water and breathe using gills.
+Amphibians can live on land and in water.
+Reptiles are cold-blooded vertebrates.
+Insects have six legs.
+Spiders have eight legs.
+The human species is Homo sapiens.
+The heart has four chambers in most humans.
+Blood pressure is measured in millimeters of mercury.
+The brain has billions of neurons.
+The retina is part of the eye that detects light.
+Sound is detected by the ear.
+Taste buds detect flavors.
+Skin is the largest human organ.
+Teeth help break down food.
+The stomach digests food using acid and enzymes.
+The small intestine absorbs nutrients.
+The large intestine absorbs water and forms waste.
+The pancreas produces insulin.
+Insulin helps regulate blood sugar.
+Glucose is a basic sugar used for energy.
+Proteins are made of amino acids.
+Carbohydrates provide energy.
+Fats store energy and help build cell membranes.
+Vitamins are essential nutrients in small amounts.
+The chemical symbol for sodium is Na.
+The chemical symbol for potassium is K.
+The chemical symbol for silver is Ag.
+The chemical symbol for gold is Au.
+The chemical symbol for iron is Fe.
+The chemical symbol for copper is Cu.
+A mammal typically has hair or fur at some stage of life.
+Birds lay eggs.
+Most plants produce oxygen during photosynthesis.
+The capital of Italy is Rome.
+The capital of Spain is Madrid.
+The capital of Germany is Berlin.
+The capital of Canada is Ottawa.
+The capital of Australia is Canberra.
+The capital of Brazil is Brasília.
+The capital of South Korea is Seoul.
+The capital of Argentina is Buenos Aires.
+The capital of Egypt is Cairo.
+The capital of Turkey is Ankara.
+The capital of Greece is Athens.
+Earth has four seasons in many regions due to its axial tilt.
+The human body temperature is about 37 degrees Celsius on average.
+The Pacific Ocean lies between Asia and the Americas.
+The Atlantic Ocean lies between the Americas and Europe/Africa.
+The longest bone in the human body is the femur.
+The human body has 12 pairs of ribs in most people.
+The capital of the United Kingdom is London.
+The capital of Ireland is Dublin.
+The capital of Portugal is Lisbon.
+The capital of Sweden is Stockholm.
+The capital of Norway is Oslo.
+The capital of Finland is Helsinki.
+The capital of Denmark is Copenhagen.
+The capital of Switzerland is Bern.
+The capital of Austria is Vienna.
+The capital of Poland is Warsaw.
+The capital of the Netherlands is Amsterdam.
+The capital of Belgium is Brussels.
+The capital of Thailand is Bangkok.
+The capital of Vietnam is Hanoi.
+The capital of Indonesia is Jakarta.
